@@ -7,7 +7,7 @@
 
 
 - 🔭 I'm working on some exciting projects.
-- ⚓ I'm interested in generative adversarial networks , convolutional neural network , tensorflow , keras 👾
+- ⚓ I'm interested in GAN , CNN , tensorflow , keras 👾
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to Code and Read Books !!
