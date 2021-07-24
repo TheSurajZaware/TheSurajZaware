@@ -1,6 +1,6 @@
 ### Hi there, I'm SuRaj  👋
 
-<img align="right" alt="My Coding Life" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" width="350" > 
+<img align="right" style="border:3px solid black" alt="My Coding Life" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" width="350" > 
 
 <b> I'm a Passionate Programmer & Developer !</b>
 
