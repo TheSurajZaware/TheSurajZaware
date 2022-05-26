@@ -1,7 +1,7 @@
 
 <h2><img src="https://imgur.com/CTPzCrS.gif" height=25px width=25px>  Hi there, I'm SuRaj  <img src="https://imgur.com/TFzFv3D.gif" height=20px width=20px></h2>
 
-<img align="Right" style="border:3px solid black" alt="My Coding Life" src="https://imgur.com/Z9n1y5S.gif" height=40% width=40% > 
+<img align="right" style="border:3px solid black" alt="My Coding Life" src="https://imgur.com/Z9n1y5S.gif" height=44% width=44% > 
 
 <b> I'm a Passionate Programmer & Developer !</b>
 
